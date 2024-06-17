@@ -59,6 +59,11 @@ declare -r words=(
     "Pig"
     "Chicken"
     "World"
+    "Wind"
+    "North"
+    "South"
+    "East"
+    "West"
 
     "${prefix_words[@]}"
 )
